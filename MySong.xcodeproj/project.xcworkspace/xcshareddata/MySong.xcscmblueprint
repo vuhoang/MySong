@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "81FC9E4D7B0F33A652FAB39C1945409D1597A098",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "81FC9E4D7B0F33A652FAB39C1945409D1597A098" : 0,
+    "225328B23A84E09941FA580A9F719DCBC5B5538F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7B09F1D5-49E8-4AA8-B186-0F2E5367D57E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "81FC9E4D7B0F33A652FAB39C1945409D1597A098" : "MySong\/",
+    "225328B23A84E09941FA580A9F719DCBC5B5538F" : "muveo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MySong",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MySong.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:vuhoang\/muveo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "225328B23A84E09941FA580A9F719DCBC5B5538F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:vuhoang\/MySong.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "81FC9E4D7B0F33A652FAB39C1945409D1597A098"
+    }
+  ]
+}
